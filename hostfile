@@ -1,0 +1,12 @@
+127.0.0.1       localhost
+127.0.1.1       vagrant.vm      vagrant
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+192.168.101.155   k8s.ravi.local
+192.168.101.155  master.ravi.local  master
+192.168.101.156  node1.ravi.local  node1
+192.168.101.157 node2.ravi.local node2 
+192.168.101.158 node3.ravi.local node3 
